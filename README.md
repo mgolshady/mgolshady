@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mehran Golshady
+- 👋 Hi, I’m Mehran Golshadi
 - 👀 I’m interested in RF & DSP & Microcontrollers
 - 🌱 I’m currently learning STM32
 - 💞️ I’m looking to collaborate on STM32 controlling unit projects
